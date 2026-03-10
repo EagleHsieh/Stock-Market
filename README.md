@@ -1,2 +1,2 @@
 # Stock-Market
-Information you need to know for investment in stock market.
+Information you need to know before putting money in stock market.
